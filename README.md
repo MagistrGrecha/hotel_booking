@@ -25,4 +25,4 @@ python hotel.py
 
 ## UML-диаграмма классов
 
-![UML Class Diagram](diagrams/hotel_diagram.jpg)
+![UML Class Diagram](diagrams/hotel_UML.jpg)
